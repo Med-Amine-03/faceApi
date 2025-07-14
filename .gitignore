@@ -1,0 +1,20 @@
+# Ignore large or auto-generated files
+
+*.pyd
+*.dll
+*.pyc
+__pycache__/
+*.zip
+*.tar.gz
+*.npy
+*.npz
+
+# Ignore virtual environments
+facemotion/
+facemotion39/
+venv/
+.env/
+.ipynb_checkpoints/
+
+app/models/
+*.h5
