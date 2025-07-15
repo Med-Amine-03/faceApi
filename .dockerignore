@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.ipynb
+training/
+README.md
+.vscode/
+*.swp
+.git/

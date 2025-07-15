@@ -2,6 +2,7 @@ fastapi
 uvicorn
 opencv-python
 pillow
-tensorflow==2.13
+tensorflow
 numpy
 gdown
+python-multipart
